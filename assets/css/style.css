@@ -1,0 +1,21 @@
+
+.kotak{
+    max-width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    border: 10px solid rgb(8, 85, 8);
+    border-radius: 2rem;
+    margin-bottom: 5rem;
+    
+}
+
+.block{
+    padding: 30px;
+    border-radius: 1rem;
+    box-shadow: black;
+    
+}
+
+.login{
+    width: 20rem;   
+}
